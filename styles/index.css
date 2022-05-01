@@ -1,0 +1,22 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid teal;
+    text-align: center;
+    /* justify-content: center; */
+}
+#option{
+    display: flex;
+    gap: 20px;
+}
+#searchRec{
+    width: 500px;
+    height: 40px;
+    text-align: center;
+    border-radius: 20px;
+    border: 1px solid green;
+    margin: auto;
+    /* border-top: none;
+    border-left: none;
+    border-right: none; */
+}
